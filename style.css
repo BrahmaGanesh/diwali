@@ -1,0 +1,44 @@
+
+.diwali-main1{
+    color: aliceblue;
+    font-family: cursive;
+    width: 200px;
+    padding: 60px;
+    margin-right: 70px;
+}
+.diwali-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    background-image: url("https://img.freepik.com/free-vector/happy-diwali-red-banner-with-text-space_1017-28648.jpg?w=1380&t=st=1700494388~exp=1700494988~hmac=13e18522ad7bc5471d3c9799dff25b5e7f4f9582cb2c571cdd7c5f1fe9eae7c2");
+    background-size: cover;
+    height: 36vh;
+    width: 100%;
+}
+.diwali-bo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.diwali-bo1{
+    height: 140px;
+    width: 130px;
+}
+.diwali-bo2{
+    padding: 5px;
+    margin: 20px;
+    border: solid;
+    border-radius: 25px;
+    text-align: center;
+}
+.abc{
+    text-align: center;
+}
+.btn-1{
+    border: 0px;
+    border-radius: 25px;
+    color: blanchedalmond;
+    background-color: blueviolet;
+    padding: 20px;
+    
+}
